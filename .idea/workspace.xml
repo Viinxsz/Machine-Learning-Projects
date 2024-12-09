@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04c450a4-6e07-4a55-8c4a-e837af332e76" name="Changes" comment="Teorema Bayes :&#10;&#10;- **Visualização e Aplicação do Teorema de Bayes**&#10;  - Desenvolvi uma aplicação para calcular e visualizar o impacto do Teorema de Bayes em problemas de probabilidade condicional.&#10;  - Modelei cenários variando sensibilidade e especificidade, ilustrando graficamente seu impacto na probabilidade a posteriori.&#10;  - Utilizei Python e bibliotecas como NumPy e Matplotlib para cálculos probabilísticos e visualização de dados.&#10;  - Projetado para demonstrar a aplicabilidade do teorema em cenários reais, como diagnóstico médico.&#10;  - Tecnologias: Python, NumPy, Matplotlib.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Viinxsz"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Viinxsz/Machine-Learning-Projects",
+    "accountId": "4592aa0d-35c9-4826-ac10-bddd7e425428"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2nDnBd8BketG4po2viEALi6Nuy7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.probabilidades.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: []
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-6a3326d57233-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.24807.21" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04c450a4-6e07-4a55-8c4a-e837af332e76" name="Changes" comment="" />
+      <created>1728516380005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728516380005</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Teorema Bayes : &#10;&#10;- **Visualização e Aplicação do Teorema de Bayes**&#10;  - Desenvolvi uma aplicação para calcular e visualizar o impacto do Teorema de Bayes em problemas de probabilidade condicional.&#10;  - Modelei cenários variando sensibilidade e especificidade, ilustrando graficamente seu impacto na probabilidade a posteriori.&#10;  - Utilizei Python e bibliotecas como NumPy e Matplotlib para cálculos probabilísticos e visualização de dados.&#10;  - Projetado para demonstrar a aplicabilidade do teorema em cenários reais, como diagnóstico médico.&#10;  - Tecnologias: Python, NumPy, Matplotlib.">
+      <option name="closed" value="true" />
+      <created>1733782694812</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733782694812</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Teorema Bayes : &#10;&#10;- **Visualização e Aplicação do Teorema de Bayes**&#10;  - Desenvolvi uma aplicação para calcular e visualizar o impacto do Teorema de Bayes em problemas de probabilidade condicional.&#10;  - Modelei cenários variando sensibilidade e especificidade, ilustrando graficamente seu impacto na probabilidade a posteriori.&#10;  - Utilizei Python e bibliotecas como NumPy e Matplotlib para cálculos probabilísticos e visualização de dados.&#10;  - Projetado para demonstrar a aplicabilidade do teorema em cenários reais, como diagnóstico médico.&#10;  - Tecnologias: Python, NumPy, Matplotlib.">
+      <option name="closed" value="true" />
+      <created>1733783050598</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733783050598</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Teorema Bayes : &#10;&#10;- **Visualização e Aplicação do Teorema de Bayes**&#10;  - Desenvolvi uma aplicação para calcular e visualizar o impacto do Teorema de Bayes em problemas de probabilidade condicional.&#10;  - Modelei cenários variando sensibilidade e especificidade, ilustrando graficamente seu impacto na probabilidade a posteriori.&#10;  - Utilizei Python e bibliotecas como NumPy e Matplotlib para cálculos probabilísticos e visualização de dados.&#10;  - Projetado para demonstrar a aplicabilidade do teorema em cenários reais, como diagnóstico médico.&#10;  - Tecnologias: Python, NumPy, Matplotlib.">
+      <option name="closed" value="true" />
+      <created>1733783569522</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733783569522</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Teorema Bayes :&#10;&#10;- **Visualização e Aplicação do Teorema de Bayes**&#10;  - Desenvolvi uma aplicação para calcular e visualizar o impacto do Teorema de Bayes em problemas de probabilidade condicional.&#10;  - Modelei cenários variando sensibilidade e especificidade, ilustrando graficamente seu impacto na probabilidade a posteriori.&#10;  - Utilizei Python e bibliotecas como NumPy e Matplotlib para cálculos probabilísticos e visualização de dados.&#10;  - Projetado para demonstrar a aplicabilidade do teorema em cenários reais, como diagnóstico médico.&#10;  - Tecnologias: Python, NumPy, Matplotlib.">
+      <option name="closed" value="true" />
+      <created>1733784947481</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733784947481</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Teorema Bayes : &#10;&#10;- **Visualização e Aplicação do Teorema de Bayes**&#10;  - Desenvolvi uma aplicação para calcular e visualizar o impacto do Teorema de Bayes em problemas de probabilidade condicional.&#10;  - Modelei cenários variando sensibilidade e especificidade, ilustrando graficamente seu impacto na probabilidade a posteriori.&#10;  - Utilizei Python e bibliotecas como NumPy e Matplotlib para cálculos probabilísticos e visualização de dados.&#10;  - Projetado para demonstrar a aplicabilidade do teorema em cenários reais, como diagnóstico médico.&#10;  - Tecnologias: Python, NumPy, Matplotlib." />
+    <MESSAGE value="Teorema Bayes :&#10;&#10;- **Visualização e Aplicação do Teorema de Bayes**&#10;  - Desenvolvi uma aplicação para calcular e visualizar o impacto do Teorema de Bayes em problemas de probabilidade condicional.&#10;  - Modelei cenários variando sensibilidade e especificidade, ilustrando graficamente seu impacto na probabilidade a posteriori.&#10;  - Utilizei Python e bibliotecas como NumPy e Matplotlib para cálculos probabilísticos e visualização de dados.&#10;  - Projetado para demonstrar a aplicabilidade do teorema em cenários reais, como diagnóstico médico.&#10;  - Tecnologias: Python, NumPy, Matplotlib." />
+    <option name="LAST_COMMIT_MESSAGE" value="Teorema Bayes :&#10;&#10;- **Visualização e Aplicação do Teorema de Bayes**&#10;  - Desenvolvi uma aplicação para calcular e visualizar o impacto do Teorema de Bayes em problemas de probabilidade condicional.&#10;  - Modelei cenários variando sensibilidade e especificidade, ilustrando graficamente seu impacto na probabilidade a posteriori.&#10;  - Utilizei Python e bibliotecas como NumPy e Matplotlib para cálculos probabilísticos e visualização de dados.&#10;  - Projetado para demonstrar a aplicabilidade do teorema em cenários reais, como diagnóstico médico.&#10;  - Tecnologias: Python, NumPy, Matplotlib." />
+  </component>
+</project>
